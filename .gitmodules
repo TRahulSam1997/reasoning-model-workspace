@@ -1,3 +1,4 @@
 [submodule "reasoning-from-scratch"]
 	path = reasoning-from-scratch
 	url = https://github.com/rasbt/reasoning-from-scratch.git
+	ignore = dirty
